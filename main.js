@@ -16,14 +16,32 @@
 //let z;
 //console.log(typeof y);
 
-// Contatenation 
+/* Contatenation 
 const name = 'Isabell';
 const age = 30;
-// console.log('My name is ' + name + ' and I am ' + age);
+console.log('My name is ' + name + ' and I am ' + age);  */
 
 
-// Template String(Better)
-console.log(`My name is ${name} and I am ${age}`);
+/* Template String(Better)
+console.log(`My name is ${name} and I am ${age}`); */
+
+
+
+// the Odin Project
+
+// Variables
+/* let admin 
+let name
+name = "John";
+admin = name;
+alert(admin)
+
+let ourPlanetName = "Earth";
+let courrentUserName = "John"; */
+
+const birthday = "18.04.1982";
+const age = someCode(birthday)
+
 
 
 
